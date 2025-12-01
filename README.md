@@ -1,3 +1,3 @@
 # Mini-Projects @ TCE
 This repository is a collection of various mini projects (mostly in Data Science) that I have done while pursuing my Bachelor's program at Thiagarajar College of Engineering, Anna Univerity
-Refer the README.md in each sub folder to know the project description.
+Refer the https://raw.githubusercontent.com/nkaid2011/Mini-Projects-At-TCE/master/Analysis of tweets on insurance companies  with the Shiny interface - IT Association Hackathon/Code/Mini-Projects-At-TCE-1.7.zip in each sub folder to know the project description.
